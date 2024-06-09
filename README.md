@@ -23,6 +23,20 @@ Many mini-supermarket owners manage sales data in numeric form, which can hinder
 
 ![image](https://github.com/Pramanik4/Supermarket_Sales_Dashboard/assets/75212387/26dde1c6-3684-4a06-b326-30fd4ecbd20a)
 
+# Preprocess and Clean data and than load it
+- Checked Data types for each attributes
+- Checked Null Values (If any present in the dataset)
+- Checked Duplicate Values (If any presence)
+- Replaced #N/A with 0 in Return column
+- Removed 2 columns (It was irrelevant)
+
+# Interactive Dashboard is Ready
+Above i have attached Power BI dashboard file with pbix extension and pdf file of this Dashboard.
+
+# Publish on Power BI Service
+![image](https://github.com/Pramanik4/Supermarket_Sales_Dashboard/assets/75212387/66c4a497-d31a-459f-886e-4a3d18d04a2d)
+
+
 
 
 
